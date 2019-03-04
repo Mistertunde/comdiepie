@@ -1,2 +1,2 @@
 # comdiepie
-Random
+Twitter auto-reply bot
